@@ -1,7 +1,6 @@
-﻿using ExercicioCSharpEnum.Entities;
-using ExercicioCSharpEnum.Entities.Enums;
+﻿using ExercicioCSharpEnum.Entities.Enums;
 
-namespace EstudosConsole.Entities
+namespace ExercicioCSharpEnum.Entities
 {
     internal class Worker
     {
